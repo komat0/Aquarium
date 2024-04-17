@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Aquarium</string>
+    <string name="animalPhoto">AnimalPhoto</string>
+    <string name="textview">TextView</string>
+    <string name="next">NEXT</string>
+    <string name="previous">PREVIOUS</string>
+    <string name="koi_karp">KOI KARP</string>
+    <string name="spiny_dogfish">SPINY DOGFISH</string>
+    <string name="kaluga">KALUGA</string>
+</resources>
